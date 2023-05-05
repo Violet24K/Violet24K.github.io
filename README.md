@@ -2,4 +2,4 @@
 
 Developed based on [This repo](https://github.com/JunweiLiang/junweiliang.github.io). Many thanks to Junwei Liang!
 
-[My Personal Homepage](https://junweiliang.github.io/).
+[My Personal Homepage](https://www.zihao.website/).
