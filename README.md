@@ -1,4 +1,5 @@
-# Simple Plain Html Academic Personal Page
+# Personal Homepage
 
-Uses jQuery and Bootstrap CSS.
-[Here](https://junweiliang.github.io/) is my actively maintained page.
+Developed based on [This repo](https://github.com/JunweiLiang/junweiliang.github.io). Many thanks to Junwei Liang!
+
+[My Personal Homepage](https://junweiliang.github.io/).
