@@ -31,7 +31,8 @@
         top: 0;
         left: 0;
         overflow: auto;
-        background: #0b4c75;
+        /* background: #0b4c75; */
+        background: #3d3b3b;
         width:250px;
         height: 100%;
     }
@@ -42,7 +43,7 @@
         border-radius: 50%;
     }
   #sidebar div.info{
-    color: white;
+    color: rgb(234, 231, 231);
     text-align: center;
   }
   #sidebar div.info > .name{
@@ -68,7 +69,7 @@
 
   }
   #sidebar div.info > .link > a{
-    color: white;
+    color: rgb(234, 231, 231);
     text-decoration: underline;
   }
   #navigation{
@@ -80,7 +81,7 @@
     color: white;
     cursor: pointer;
     padding: 10px 30px;
-    background: #0765A0;
+    /* background: #0765A0; */
   }
   #navigation > a.nav_item:hover{
     background: #3D7EB0;
@@ -97,6 +98,7 @@
     bottom: 0;
     overflow: auto;
         min-width: 500px;
+    background-color: #f7f7f7;
   }
 
 
